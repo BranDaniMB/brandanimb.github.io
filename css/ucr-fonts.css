@@ -1,0 +1,327 @@
+@font-face {
+    font-family: 'Liberation Sans';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Regular-webfont.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Regular-webfont.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Regular-webfont.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Regular-webfont.svg#liberation_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.svg#liberation_sansbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LiberationSans-Bold';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Bold-webfont.svg#liberation_sansbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Italic-webfont.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Italic-webfont.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Italic-webfont.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Italic-webfont.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-Italic-webfont.svg#liberation_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-BoldItalic-webfont.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-BoldItalic-webfont.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-BoldItalic-webfont.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/LiberationSans-BoldItalic-webfont.svg#liberation_sansbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoSBd';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBd.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBd.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBd.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBd.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBd.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBd.svg#TruenoSBd') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoLtIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLtIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLtIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLtIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLtIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLtIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLtIt.svg#TruenoLtIt') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoBdOl';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOl.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOl.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOl.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOl.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOl.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOl.svg#TruenoBdOl') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoLt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoLt.svg#TruenoLt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoBlkOlIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOlIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOlIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOlIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOlIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOlIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOlIt.svg#TruenoBlkOlIt') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoBlkOl';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOl.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOl.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOl.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOl.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOl.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkOl.svg#TruenoBlkOl') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoUltLt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLt.svg#TruenoUltLt') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoBd';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBd.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBd.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBd.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBd.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBd.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBd.svg#TruenoBd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoExBdIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdIt.svg#TruenoExBdIt') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoBlkIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlkIt.svg#TruenoBlkIt') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoRg';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRg.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRg.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRg.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRg.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRg.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRg.svg#TruenoRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoUltLtIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLtIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLtIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLtIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLtIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLtIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoUltLtIt.svg#TruenoUltLtIt') format('svg');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoBdOlIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOlIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOlIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOlIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOlIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOlIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdOlIt.svg#TruenoBdOlIt') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoBdIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBdIt.svg#TruenoBdIt') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoExBdOlIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOlIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOlIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOlIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOlIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOlIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOlIt.svg#TruenoExBdOlIt') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoBlk';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlk.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlk.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlk.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlk.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlk.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoBlk.svg#TruenoBlk') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoExBdOl';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOl.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOl.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOl.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOl.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOl.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBdOl.svg#TruenoExBdOl') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoExBd';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBd.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBd.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBd.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBd.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBd.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoExBd.svg#TruenoExBd') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TruenoRgIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRgIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRgIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRgIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRgIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRgIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoRgIt.svg#TruenoRgIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TruenoSBdIt';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBdIt.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBdIt.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBdIt.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBdIt.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBdIt.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/TruenoSBdIt.svg#TruenoSBdIt') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Santana-Black';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Black.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Black.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Black.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Black.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Black.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Black.svg#Santana-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Santana-Bold';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Bold.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Bold.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Bold.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Bold.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Bold.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-Bold.svg#Santana-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Santana-BlackCondensed';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-BlackCondensed.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-BlackCondensed.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-BlackCondensed.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-BlackCondensed.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-BlackCondensed.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-BlackCondensed.svg#Santana-BlackCondensed') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Santana-RegularCondensed';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-RegularCondensed.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-RegularCondensed.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-RegularCondensed.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-RegularCondensed.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-RegularCondensed.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana-RegularCondensed.svg#Santana-RegularCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Santana';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Santana.svg#Santana') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Xenophone';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Xenophone.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Xenophone.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Xenophone.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Xenophone.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Xenophone.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/Xenophone.svg#Xenophone') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans.svg#OpenSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Italic';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Italic.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Italic.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Italic.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Italic.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Italic.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Italic.svg#OpenSans-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Bold.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Bold.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Bold.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Bold.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Bold.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiboldItalic';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-SemiboldItalic.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-SemiboldItalic.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-SemiboldItalic.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-SemiboldItalic.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-SemiboldItalic.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-SemiboldItalic.svg#OpenSans-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Light.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Light.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Light.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Light.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Light.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Light.svg#OpenSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Semibold';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Semibold.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Semibold.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Semibold.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Semibold.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Semibold.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Semibold.svg#OpenSans-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Extrabold';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Extrabold.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Extrabold.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Extrabold.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Extrabold.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Extrabold.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-Extrabold.svg#OpenSans-Extrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-BoldItalic';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-BoldItalic.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-BoldItalic.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-BoldItalic.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-BoldItalic.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-BoldItalic.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-BoldItalic.svg#OpenSans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSans-ExtraboldItalic';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-ExtraboldItalic.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-ExtraboldItalic.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-ExtraboldItalic.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-ExtraboldItalic.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-ExtraboldItalic.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSans-ExtraboldItalic.svg#OpenSans-ExtraboldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSansLight-Italic';
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSansLight-Italic.eot');
+    src: url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSansLight-Italic.eot?#iefix') format('embedded-opentype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSansLight-Italic.woff2') format('woff2'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSansLight-Italic.woff') format('woff'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSansLight-Italic.ttf') format('truetype'), url('https://medios.ucr.ac.cr/plantillas/ucr_4/fonts/OpenSansLight-Italic.svg#OpenSansLight-Italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}

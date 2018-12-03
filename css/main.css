@@ -1,0 +1,77 @@
+body {
+    background-color: #e6e6e6;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: 12%;
+    font-family: TruenoSBd, Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 10px;
+    background-image: url("../img/horizonte-rgb.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+main {
+    background-color: #F2F2F2;
+    padding: 10px;
+}
+
+footer {
+    background-color: #0d0d0d;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 0 0 10px 10px;
+}
+
+.db-table {
+    display: table;
+    transition-duration: 700ms;
+    padding: 0;
+    border-spacing: 0;
+    width: 80%;
+    margin: 15px auto;
+}
+
+.db-table tr th,
+.db-table tr td {
+    padding: 5px;
+    margin: 0;
+}
+
+.db-table .db-name {
+    background-color: #114E8F;
+    color: white;
+    font-family: TruenoLt, Arial, Helvetica, sans-serif;
+}
+
+.db-table .db-link a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.db-table .db-link {
+    color: black;
+    transition-duration: 500ms;
+}
+
+.db-table .db-link:hover {
+    background-color: #114E8F;
+    color: white;
+    transition-duration: 500ms;
+}
+
+form[name="login"] {
+    margin: 20px auto;
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+
+form[name="login"] label {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
