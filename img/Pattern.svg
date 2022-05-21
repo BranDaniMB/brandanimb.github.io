@@ -1,0 +1,19 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="500" fill="#B3E8E5"/>
+<rect width="125" height="125" fill="#3BACB6"/>
+<rect x="125" width="125" height="125" fill="#B3E8E5"/>
+<rect x="250" width="125" height="125" fill="#3BACB6"/>
+<rect x="250" y="125" width="125" height="125" fill="#82DBD8"/>
+<rect x="250" y="250" width="125" height="125" fill="#3BACB6"/>
+<rect x="250" y="375" width="125" height="125" fill="#82DBD8"/>
+<rect x="375" y="375" width="125" height="125" fill="#2F8F9D"/>
+<rect x="375" y="250" width="125" height="125" fill="#B3E8E5"/>
+<rect x="375" y="125" width="125" height="125" fill="#2F8F9D"/>
+<rect x="375" width="125" height="125" fill="#B3E8E5"/>
+<rect x="125" y="125" width="125" height="125" fill="#2F8F9D"/>
+<rect x="125" y="250" width="125" height="125" fill="#B3E8E5"/>
+<rect x="125" y="375" width="125" height="125" fill="#2F8F9D"/>
+<path d="M0 125H125V250H0V125Z" fill="#82DBD8"/>
+<path d="M0 250H125V375H0V250Z" fill="#3BACB6"/>
+<path d="M0 375H125V500H0V375Z" fill="#82DBD8"/>
+</svg>

@@ -1,18 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
-body {
-    display: flex;
-    font-family: 'Fira Code';
-    font-weight: 500;
-    justify-content: center;
-    align-items: center;
-    top: 0;
-    position: absolute;
-    bottom: 0;
-    width: 99%;
-    background-color: darkslategrey;
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Signika:wght@500;600&display=swap');
+
+:root {
+    --main-color: #B3E8E5;
+    --main-bg-background: url('../img/Pattern.svg');
 }
 
-p {
-    font-size: 3em;
-    color: aliceblue;
+body {
+    background-color: var(--main-color);
+    background-image: var(--main-bg-background);
+    background-size: 250px;
+    background-repeat: repeat;
+}
+
+section#welcome {
+    color: #143E44;
+    font-family: 'Signika';
+    font-size: 2em;
+    padding: 20px;
+    width: max-content;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+}
+
+section#welcome .name,
+section#welcome .nickname {
+    color: #0D282D;
+    font-family: 'Pacifico';
+    font-size: 1.5em;
+}
+
+section#welcome #social {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
